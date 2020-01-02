@@ -2,21 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="810e1ca7-0214-4be3-a424-f21bcdc819bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/print/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/season/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/season/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/season/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/season/SeasonShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/season/SeasonShow2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/season/Weather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/uri/UriTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaConsumerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaProducerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xll/test/JsonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/myjava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myjava.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xll/entity/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xll/entity/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xll/entity/Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xll/entity/Man.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xll/entity/Woman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xll/entity/Woman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xll/invoke/InvokeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xll/invoke/InvokeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xll/season/Calculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xll/season/Calculate.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,34 +32,38 @@
     <session id="-1588167477">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="9" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="29" />
-          <entry key="xml" value="3" />
+          <entry key="class" value="11" />
+          <entry key="java" value="104" />
+          <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="29" />
-          <entry key="XML" value="3" />
+          <entry key="CLASS" value="11" />
+          <entry key="JAVA" value="104" />
+          <entry key="XML" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1032" />
-          <entry key="xml" value="7" />
+          <entry key="dummy" value="4" />
+          <entry key="java" value="2305" />
+          <entry key="xml" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1032" />
-          <entry key="XML" value="7" />
+          <entry key="JAVA" value="2305" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="71" />
         </counts>
       </usages-collector>
     </session>
@@ -64,69 +71,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/Season.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaProducerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            <state relative-caret-position="180">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
               <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/Weather.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaConsumerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="220">
+              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/Calculate.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/SeasonShow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/SeasonShow2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-              <folding>
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -141,6 +113,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>send</find>
+      <find>PartitionerDemo</find>
+      <find>retries</find>
+      <find>RETRIES_CONFIG</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -160,7 +140,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xll/entity/Man.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xll/entity/Woman.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xll/invoke/InvokeTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageThreadFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xll/uri/UriTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xll/print/Print.java" />
@@ -171,6 +150,33 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xll/season/Weather.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xll/season/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xll/season/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xll/test/JsonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/PartitionerDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/Producer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaProducerDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerDemo.java" />
+        <option value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.0/conf/settingsbackup.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/ConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.0/conf/settings.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/ProducerDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/PartitionerDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerSimpleDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerMsgTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaParams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaProducerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaConsumerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka3/KafkaConsumerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaConts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka3/KafkaProducerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerAsync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerSync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/GroupConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaProducerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaConsumerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaThread.java" />
       </list>
     </option>
   </component>
@@ -201,6 +207,22 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="myjava" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myjava" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myjava" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myjava" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.apache.kafka:kafka-clients:2.2.2" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -218,6 +240,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,11 +252,6 @@
             <path>
               <item name="myjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="myjava" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -273,29 +292,31 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xll" type="462c0819:PsiDirectoryNode" />
-              <item name="season" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577366663955" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577949108208" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.2.2/kafka-clients-2.2.2.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xll" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\tools\mygit\IOT_SOP\myjava\src\main\java\com\xll\disruptor" />
     </key>
@@ -312,13 +333,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Calculate">
-    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xll.season.Calculate" />
+  <component name="RunManager" selected="Application.KafkaThread">
+    <configuration name="KafkaConsumerService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xll.kafka.KafkaConsumerService" />
       <module name="myjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xll.season.*" />
+          <option name="PATTERN" value="com.xll.kafka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,12 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xll.print.Print" />
+    <configuration name="KafkaConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xll.kafka2.KafkaConsumerTest" />
       <module name="myjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xll.print.*" />
+          <option name="PATTERN" value="com.xll.kafka2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,12 +360,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeasonShow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xll.season.SeasonShow" />
+    <configuration name="KafkaProducerService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xll.kafka.KafkaProducerService" />
       <module name="myjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xll.season.*" />
+          <option name="PATTERN" value="com.xll.kafka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,12 +373,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeasonShow2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xll.season.SeasonShow2" />
+    <configuration name="KafkaThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xll.kafka.KafkaThread" />
       <module name="myjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xll.season.*" />
+          <option name="PATTERN" value="com.xll.kafka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,12 +386,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UriTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xll.uri.UriTest" />
+    <configuration name="ProducerSync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xll.kafka.ProducerSync" />
       <module name="myjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xll.uri.*" />
+          <option name="PATTERN" value="com.xll.kafka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,19 +400,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UriTest" />
-      <item itemvalue="Application.Print" />
-      <item itemvalue="Application.SeasonShow" />
-      <item itemvalue="Application.SeasonShow2" />
-      <item itemvalue="Application.Calculate" />
+      <item itemvalue="Application.KafkaProducerService" />
+      <item itemvalue="Application.KafkaConsumerService" />
+      <item itemvalue="Application.ProducerSync" />
+      <item itemvalue="Application.KafkaConsumerTest" />
+      <item itemvalue="Application.KafkaThread" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculate" />
-        <item itemvalue="Application.SeasonShow2" />
-        <item itemvalue="Application.SeasonShow" />
-        <item itemvalue="Application.Print" />
-        <item itemvalue="Application.UriTest" />
+        <item itemvalue="Application.KafkaThread" />
+        <item itemvalue="Application.KafkaProducerService" />
+        <item itemvalue="Application.KafkaConsumerService" />
+        <item itemvalue="Application.ProducerSync" />
+        <item itemvalue="Application.KafkaConsumerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -411,11 +432,22 @@
       <workItem from="1577098092679" duration="599000" />
       <workItem from="1577344431284" duration="623000" />
       <workItem from="1577364236720" duration="2424000" />
+      <workItem from="1577413549853" duration="8197000" />
+      <workItem from="1577422477900" duration="3257000" />
+      <workItem from="1577430600336" duration="599000" />
+      <workItem from="1577436334784" duration="3940000" />
+      <workItem from="1577761352082" duration="916000" />
+      <workItem from="1577934716268" duration="8441000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="JsonTest_test01 - 2019.12.27 at 10h 27m 47s.xml">
+      <configuration name="JsonTest.test01" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11495000" />
+    <option name="totallyTimeSpent" value="37321000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -430,7 +462,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2506063" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26434922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -438,17 +470,17 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35231316" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22597864" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3291815" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.455516" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31494662" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.5498221" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -468,34 +500,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/entity/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/entity/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/entity/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/invoke/InvokeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageWorkHandler.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -516,13 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -584,16 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -601,10 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,8 +607,216 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/Calculate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="220">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar!/org/codehaus/jackson/io/UTF8Writer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xll/test/JsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/PartitionerDemo.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.10/0.9.0.1/kafka_2.10-0.9.0.1.jar!/kafka/producer/Producer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1858">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.1/kafka-clients-0.9.0.1.jar!/org/apache/kafka/clients/producer/ProducerRecord.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.1/kafka-clients-0.9.0.1.jar!/org/apache/kafka/clients/producer/Producer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.1/kafka-clients-0.9.0.1.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="202" column="16" selection-start-line="202" selection-start-column="16" selection-end-line="202" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../maven/apache-maven-3.6.0/conf/settingsbackup.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/ConsumerDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerDemo.java" />
+    <entry file="file://$PROJECT_DIR$/../../../maven/apache-maven-3.6.0/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="150" column="13" lean-forward="true" selection-start-line="150" selection-start-column="13" selection-end-line="150" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerMsgTask.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/ProducerDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/PartitionerDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerSimpleDemo.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.2.2/kafka-clients-2.2.2.jar!/org/apache/kafka/clients/consumer/ConsumerRecords.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="21" column="66" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.2.2/kafka-clients-2.2.2.jar!/org/apache/kafka/clients/producer/ProducerRecord.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.2.2/kafka-clients-2.2.2.jar!/org/apache/kafka/clients/producer/ProducerConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="84" column="57" selection-start-line="84" selection-start-column="57" selection-end-line="84" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.2.2/kafka-clients-2.2.2.jar!/org/apache/kafka/clients/producer/KafkaProducer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="110" column="9" lean-forward="true" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaConts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerAsync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/GroupConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerSync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaProducerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="462" column="20" lean-forward="true" selection-start-line="462" selection-start-column="20" selection-end-line="462" selection-end-column="20" />
+          <folding>
+            <element signature="e#15020#15021#0" expanded="true" />
+            <element signature="e#15084#15085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaProducerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaConsumerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
