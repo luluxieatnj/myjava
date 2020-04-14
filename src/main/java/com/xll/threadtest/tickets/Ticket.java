@@ -1,5 +1,8 @@
 package com.xll.threadtest.tickets;
 
+/**
+ *  模拟买票
+ */
 public class Ticket {
 
     public static void main(String[] args){

@@ -8,6 +8,9 @@ import java.util.concurrent.ScheduledThreadPoolExecutor;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
+/**
+ *  在linux环境下测试FullGC，   模拟内存泄漏
+ */
 public class FullGCProblem {
 
     private static class CardInfo{
