@@ -1,5 +1,8 @@
 package com.xll.disruptor;
 
+/**
+ *  消息对象
+ */
 public class MessageEvent<T> {
 
     private T message;

@@ -2,13 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="810e1ca7-0214-4be3-a424-f21bcdc819bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/collectiontest/ListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/maptest/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/season/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/collectionanmap/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/collectionanmap/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/collectionanmap/queue/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/enumtest/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/enumtest/SensonEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/fourducks/FourDucks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/generic/Being.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/generic/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/generic/HumanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/generic/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/generic/PersonA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/generic/PersonB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/generic/Women.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/juc/SingleTon01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/juc/TMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/jvm/FullGCProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/sftp/SFtp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/strings/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/strings/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/strings/ArrayTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/strings/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/threadtest/customerproducter/CustomFruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/threadtest/customerproducter/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/threadtest/customerproducter/ProductFruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/threadtest/customerproducter/RunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/threadtest/customerproducter/ThreadTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/threadtest/numberandcharacter/CrossPrint1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/threadtest/tickets/SaleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/threadtest/tickets/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/threadtest/tltest/GamePic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/threadtest/tltest/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xll/threadtest/tltest/TlTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/myjava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myjava.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEvenHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEvenHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEventFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEventFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/xll/print/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xll/print/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/xll/test/JsonTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,60 +54,104 @@
     <session id="-1588167477">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.0" value="9" />
-          <entry key="project.open.time.1" value="5" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.closed" value="51" />
+          <entry key="project.open.time.0" value="19" />
+          <entry key="project.open.time.1" value="16" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="11" />
+          <entry key="class" value="20" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="123" />
+          <entry key="java" value="233" />
           <entry key="md" value="1" />
-          <entry key="xml" value="11" />
+          <entry key="xml" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="11" />
-          <entry key="JAVA" value="123" />
+          <entry key="CLASS" value="20" />
+          <entry key="JAVA" value="233" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="11" />
+          <entry key="XML" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
           <entry key="gitignore" value="5" />
-          <entry key="java" value="2964" />
+          <entry key="java" value="21565" />
           <entry key="md" value="11" />
           <entry key="txt" value="2" />
-          <entry key="xml" value="71" />
+          <entry key="xml" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2964" />
+          <entry key="JAVA" value="21565" />
           <entry key="Markdown" value="11" />
           <entry key="PLAIN_TEXT" value="16" />
-          <entry key="XML" value="71" />
+          <entry key="XML" value="73" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/collectiontest/ListDemo1.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="904">
-              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+            <state relative-caret-position="342">
+              <caret line="51" column="68" selection-start-line="51" selection-start-column="68" selection-end-line="51" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/strings/ArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/jvm/FullGCProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10184">
+              <caret line="581" column="30" selection-start-line="581" selection-start-column="30" selection-end-line="581" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/math/BigDecimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3629">
+              <caret line="219" column="13" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -84,8 +161,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -97,6 +174,13 @@
       <find>retries</find>
       <find>RETRIES_CONFIG</find>
       <find>replace</find>
+      <find>CHECK_NUMBER_NET_RSP</find>
+      <find>JSch</find>
+      <find>mkdir</find>
+      <find>offer</find>
+      <find>RejectedExecutionHandler</find>
+      <find>DEFAULT_INITIAL_CAPACITY</find>
+      <find>acquire</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,53 +197,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/entity/Human.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/entity/Man.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/entity/Woman.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/invoke/InvokeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageThreadFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/uri/UriTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/Season.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/season/SeasonShow.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/season/Season.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/season/SeasonShow2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/season/Weather.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/season/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/season/Calculate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/PartitionerDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/Producer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaProducer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaProducerDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerDemo.java" />
-        <option value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.0/conf/settingsbackup.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/ConsumerDemo.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.0/conf/settings.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/ProducerDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/PartitionerDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerSimpleDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerMsgTask.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaParams.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaProducerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaConsumerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka3/KafkaConsumerService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaConts.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka3/KafkaProducerService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerAsync.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerSync.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/GroupConsumer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaProducerService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaConsumerService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaStart.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/test/java/com/xll/test/JsonTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xll/print/Print.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xll/season/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xll/maptest/Demo1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xll/collectiontest/ListDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/fourducks/FourDucks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/strings/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/strings/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/strings/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/strings/JsonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/juc/SingleTon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/juc/SingleTon01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/strings/ArrayTest2.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/SaleThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/customerproducter/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/customerproducter/RunTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/customerproducter/ProductFruit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/customerproducter/CustomFruit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/ThreadTest01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/numberandcharacter/CrossPrint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/numberandcharacter/CrossPrint1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/sftp/SFtp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/TlTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/generic/human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/generic/Man.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/generic/Women.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/generic/Being.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/generic/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/generic/HumanTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/collectionanmap/CollectionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/generic/PersonA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/generic/PersonB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/collectionanmap/MapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/customerproducter/ThreadTest01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/tltest/GamePic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/tltest/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/collectionanmap/queue/QueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/threadtest/tltest/TlTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/juc/TMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/enumtest/SensonEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/enumtest/EnumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEvenHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEventFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/print/Print.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/jvm/CardInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/strings/ArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xll/jvm/FullGCProblem.java" />
       </list>
     </option>
   </component>
@@ -210,10 +298,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="width" value="981" />
-    <option name="height" value="1032" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="60" />
+    <option name="y" value="125" />
+    <option name="width" value="984" />
+    <option name="height" value="1035" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -223,6 +312,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -266,25 +357,43 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xll" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="myjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xll" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xll" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579525220640" />
-    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.2.2/kafka-clients-2.2.2.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586340179996" />
+    <property name="last_opened_file_path" value="C:/ai/gs-svn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -306,13 +415,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ListDemo1.test01">
-    <configuration name="KafkaConsumerService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xll.kafka.KafkaConsumerService" />
+  <component name="RunManager" selected="Application.FullGCProblem">
+    <configuration name="CollectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xll.collectionanmap.CollectionTest" />
       <module name="myjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xll.kafka.*" />
+          <option name="PATTERN" value="com.xll.collectionanmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,12 +429,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KafkaProducerService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xll.kafka.KafkaProducerService" />
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xll.enumtest.EnumTest" />
       <module name="myjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xll.kafka.*" />
+          <option name="PATTERN" value="com.xll.enumtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,12 +442,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KafkaStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xll.kafka.KafkaStart" />
+    <configuration name="FullGCProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xll.jvm.FullGCProblem" />
       <module name="myjava" />
+      <option name="VM_PARAMETERS" value="-Xms100M -Xmx100M -XX:+PrintGC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xll.kafka.*" />
+          <option name="PATTERN" value="com.xll.print.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,12 +456,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerSync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xll.kafka.ProducerSync" />
+    <configuration name="TlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xll.threadtest.tltest.TlTest" />
       <module name="myjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xll.kafka.*" />
+          <option name="PATTERN" value="com.xll.threadtest.tltest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,41 +469,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDemo1.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xll.collectiontest.*" />
+          <option name="PATTERN" value="com.xll.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.xll.collectiontest" />
-      <option name="MAIN_CLASS_NAME" value="com.xll.collectiontest.ListDemo1" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="com.xll.strings" />
+      <option name="MAIN_CLASS_NAME" value="com.xll.strings.ArrayTest" />
+      <option name="METHOD_NAME" value="test04" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KafkaProducerService" />
-      <item itemvalue="Application.KafkaConsumerService" />
-      <item itemvalue="Application.ProducerSync" />
-      <item itemvalue="Application.KafkaStart" />
-      <item itemvalue="JUnit.ListDemo1.test01" />
+      <item itemvalue="Application.CollectionTest" />
+      <item itemvalue="Application.TlTest" />
+      <item itemvalue="Application.EnumTest" />
+      <item itemvalue="Application.FullGCProblem" />
+      <item itemvalue="JUnit.ArrayTest.test04" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ListDemo1.test01" />
-        <item itemvalue="Application.KafkaStart" />
-        <item itemvalue="Application.KafkaProducerService" />
-        <item itemvalue="Application.KafkaConsumerService" />
-        <item itemvalue="Application.ProducerSync" />
+        <item itemvalue="Application.FullGCProblem" />
+        <item itemvalue="JUnit.ArrayTest.test04" />
+        <item itemvalue="Application.EnumTest" />
+        <item itemvalue="Application.TlTest" />
+        <item itemvalue="Application.CollectionTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\xie\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -415,44 +525,81 @@
       <workItem from="1577761352082" duration="916000" />
       <workItem from="1577934716268" duration="9210000" />
       <workItem from="1577952613973" duration="1515000" />
-      <workItem from="1579522195099" duration="2018000" />
+      <workItem from="1579522195099" duration="2173000" />
+      <workItem from="1581297953358" duration="42000" />
+      <workItem from="1582073765553" duration="3724000" />
+      <workItem from="1583288500383" duration="12638000" />
+      <workItem from="1583723723931" duration="5260000" />
+      <workItem from="1583908263051" duration="3884000" />
+      <workItem from="1583919396266" duration="628000" />
+      <workItem from="1583986179951" duration="7084000" />
+      <workItem from="1584062113437" duration="3949000" />
+      <workItem from="1584154041869" duration="4520000" />
+      <workItem from="1584331388110" duration="3609000" />
+      <workItem from="1584364859060" duration="1942000" />
+      <workItem from="1584407093448" duration="1061000" />
+      <workItem from="1584417084296" duration="1518000" />
+      <workItem from="1584429616930" duration="1332000" />
+      <workItem from="1584454686448" duration="703000" />
+      <workItem from="1584601300881" duration="2242000" />
+      <workItem from="1584665973497" duration="192000" />
+      <workItem from="1584674338085" duration="3440000" />
+      <workItem from="1585011541970" duration="96000" />
+      <workItem from="1585011807999" duration="1086000" />
+      <workItem from="1585110694106" duration="4202000" />
+      <workItem from="1585185595672" duration="79000" />
+      <workItem from="1585185821401" duration="1956000" />
+      <workItem from="1585296048569" duration="4840000" />
+      <workItem from="1585547692952" duration="2946000" />
+      <workItem from="1585618154964" duration="186000" />
+      <workItem from="1585635595912" duration="1431000" />
+      <workItem from="1585648193556" duration="746000" />
+      <workItem from="1585702615892" duration="193000" />
+      <workItem from="1585715985345" duration="5117000" />
+      <workItem from="1585789304035" duration="15363000" />
+      <workItem from="1585876337293" duration="11515000" />
+      <workItem from="1586222251858" duration="6407000" />
+      <workItem from="1586251974980" duration="670000" />
+      <workItem from="1586308562878" duration="65000" />
+      <workItem from="1586308836102" duration="10930000" />
+      <workItem from="1586394533922" duration="1824000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ListDemo1_test01 - 2020.01.20 at 20h 51m 36s.xml">
-      <configuration name="ListDemo1.test01" configurationId="JUnit" />
+    <history-entry file="ArrayTest_test04 - 2020.04.08 at 13h 25m 47s.xml">
+      <configuration name="ArrayTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListDemo1_test01 - 2020.01.20 at 20h 52m 27s.xml">
-      <configuration name="ListDemo1.test01" configurationId="JUnit" />
+    <history-entry file="ArrayTest_test04 - 2020.04.08 at 13h 28m 16s.xml">
+      <configuration name="ArrayTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListDemo1_test01 - 2020.01.20 at 20h 52m 47s.xml">
-      <configuration name="ListDemo1.test01" configurationId="JUnit" />
+    <history-entry file="ArrayTest_test04 - 2020.04.08 at 14h 04m 06s.xml">
+      <configuration name="ArrayTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListDemo1_test01 - 2020.01.20 at 20h 53m 30s.xml">
-      <configuration name="ListDemo1.test01" configurationId="JUnit" />
+    <history-entry file="ArrayTest_test04 - 2020.04.08 at 14h 04m 48s.xml">
+      <configuration name="ArrayTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListDemo1_test01 - 2020.01.20 at 20h 54m 04s.xml">
-      <configuration name="ListDemo1.test01" configurationId="JUnit" />
+    <history-entry file="ArrayTest_test04 - 2020.04.08 at 14h 07m 09s.xml">
+      <configuration name="ArrayTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListDemo1_test01 - 2020.01.20 at 20h 54m 25s.xml">
-      <configuration name="ListDemo1.test01" configurationId="JUnit" />
+    <history-entry file="ArrayTest_test04 - 2020.04.08 at 14h 07m 22s.xml">
+      <configuration name="ArrayTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListDemo1_test01 - 2020.01.20 at 20h 55m 00s.xml">
-      <configuration name="ListDemo1.test01" configurationId="JUnit" />
+    <history-entry file="ArrayTest_test04 - 2020.04.08 at 14h 07m 31s.xml">
+      <configuration name="ArrayTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListDemo1_test01 - 2020.01.20 at 20h 55m 20s.xml">
-      <configuration name="ListDemo1.test01" configurationId="JUnit" />
+    <history-entry file="ArrayTest_test04 - 2020.04.08 at 14h 08m 59s.xml">
+      <configuration name="ArrayTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListDemo1_test01 - 2020.01.20 at 20h 58m 39s.xml">
-      <configuration name="ListDemo1.test01" configurationId="JUnit" />
+    <history-entry file="ArrayTest_test04 - 2020.04.08 at 14h 17m 55s.xml">
+      <configuration name="ArrayTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListDemo1_test01 - 2020.01.20 at 21h 00m 23s.xml">
-      <configuration name="ListDemo1.test01" configurationId="JUnit" />
+    <history-entry file="ArrayTest_test04 - 2020.04.08 at 14h 18m 12s.xml">
+      <configuration name="ArrayTest.test04" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41623000" />
+    <option name="totallyTimeSpent" value="169198000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,10 +611,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2724333" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.2851064" visible="true" weight="0.2707775" />
+      <window_info id="Structure" order="1" sideWeight="0.71489364" side_tool="true" weight="0.22184986" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -475,19 +622,20 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.74377227" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42411348" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28794327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3291815" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44483986" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33629894" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.5498221" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.26334518" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="12" visible="true" weight="0.45373666" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2497979" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Database" order="5" />
@@ -503,286 +651,369 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/SeasonShow.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/threadtest/customerproducter/ThreadTest01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/SeasonShow2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/threadtest/tltest/GamePic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="520">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/Calculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar!/org/codehaus/jackson/io/UTF8Writer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/PartitionerDemo.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.10/0.9.0.1/kafka_2.10-0.9.0.1.jar!/kafka/producer/Producer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1858">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.1/kafka-clients-0.9.0.1.jar!/org/apache/kafka/clients/producer/ProducerRecord.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.1/kafka-clients-0.9.0.1.jar!/org/apache/kafka/clients/producer/Producer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.1/kafka-clients-0.9.0.1.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="202" column="16" selection-start-line="202" selection-start-column="16" selection-end-line="202" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../maven/apache-maven-3.6.0/conf/settingsbackup.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/ConsumerDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerDemo.java" />
-    <entry file="file://$PROJECT_DIR$/../../../maven/apache-maven-3.6.0/conf/settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="150" column="13" lean-forward="true" selection-start-line="150" selection-start-column="13" selection-end-line="150" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerMsgTask.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/ProducerDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/PartitionerDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/ConsumerSimpleDemo.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.2.2/kafka-clients-2.2.2.jar!/org/apache/kafka/clients/consumer/ConsumerRecords.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="21" column="66" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.2.2/kafka-clients-2.2.2.jar!/org/apache/kafka/clients/producer/ProducerRecord.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.2.2/kafka-clients-2.2.2.jar!/org/apache/kafka/clients/producer/ProducerConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="84" column="57" selection-start-line="84" selection-start-column="57" selection-end-line="84" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.2.2/kafka-clients-2.2.2.jar!/org/apache/kafka/clients/producer/KafkaProducer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="110" column="9" lean-forward="true" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaConts.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaParams.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaConsumerTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerAsync.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/GroupConsumer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/ProducerSync.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka2/KafkaProducerTest.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="31" />
+        <state relative-caret-position="660">
+          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/threadtest/tltest/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="169" column="40" lean-forward="true" selection-start-line="169" selection-start-column="40" selection-end-line="169" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/threadtest/tltest/TlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="70" column="72" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/collectionanmap/queue/QueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/BlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3154">
+          <caret line="199" column="17" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12369">
+          <caret line="695" column="22" selection-start-line="695" selection-start-column="22" selection-end-line="695" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3021">
+          <caret line="192" column="37" selection-start-line="192" selection-start-column="37" selection-end-line="192" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2793">
+          <caret line="180" column="12" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="2106" column="27" selection-start-line="2106" selection-start-column="27" selection-end-line="2106" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="305" column="94" lean-forward="true" selection-start-line="305" selection-start-column="94" selection-end-line="305" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="462" column="20" lean-forward="true" selection-start-line="462" selection-start-column="20" selection-end-line="462" selection-end-column="20" />
+        <state relative-caret-position="170">
+          <caret line="913" column="16" selection-start-line="913" selection-start-column="16" selection-end-line="913" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaConsumerService.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Float.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaStart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="127" column="12" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/xll/test/JsonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="20">
-            <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/invoke/InvokeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/print/Print.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/Weather.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="245">
+          <caret line="462" column="24" lean-forward="true" selection-start-line="462" selection-start-column="24" selection-end-line="462" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="812" column="20" selection-start-line="812" selection-start-column="20" selection-end-line="812" selection-end-column="20" />
+        <state relative-caret-position="199">
+          <caret line="271" column="7" lean-forward="true" selection-start-line="271" selection-start-column="7" selection-end-line="271" selection-end-column="7" />
+          <folding>
+            <element signature="e#19103#19104#0" expanded="true" />
+            <element signature="e#19161#19162#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Map.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="275" lean-forward="true" selection-start-line="275" selection-end-line="275" />
+        <state relative-caret-position="351">
+          <caret line="237" column="32" lean-forward="true" selection-start-line="237" selection-start-column="32" selection-end-line="237" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/maptest/Demo1.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state relative-caret-position="370">
+          <caret line="864" column="45" lean-forward="true" selection-start-line="864" selection-start-column="45" selection-end-line="864" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="601" column="21" selection-start-line="601" selection-start-column="21" selection-end-line="601" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/nio/HeapByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="281" column="21" lean-forward="true" selection-start-line="281" selection-start-column="21" selection-end-line="281" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/juc/TMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/enumtest/SensonEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/EnumSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="84" column="7" lean-forward="true" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="260" column="19" selection-start-line="260" selection-start-column="19" selection-end-line="260" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/enumtest/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0.jar!/com/lmax/disruptor/Cursored.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0.jar!/com/lmax/disruptor/RingBuffer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageWorkHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEventProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEventTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/uri/UriTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0.jar!/com/lmax/disruptor/dsl/Disruptor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-end-line="19" />
+        <state relative-caret-position="323">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/Season.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEventFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        <state relative-caret-position="133">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/season/A.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.2.0/disruptor-3.2.0.jar!/com/lmax/disruptor/EventFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/kafka/KafkaProducerService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/disruptor/MessageEvenHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/print/Print.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="218" column="48" lean-forward="true" selection-start-line="218" selection-start-column="48" selection-end-line="218" selection-end-column="48" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-            <element signature="e#10570#10571#0" expanded="true" />
-            <element signature="e#10602#10603#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/collectiontest/ListDemo1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/jvm/CardInfo.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="904">
-          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        <state relative-caret-position="342">
+          <caret line="51" column="68" selection-start-line="51" selection-start-column="68" selection-end-line="51" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/strings/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10184">
+          <caret line="581" column="30" selection-start-line="581" selection-start-column="30" selection-end-line="581" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3629">
+          <caret line="219" column="13" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xll/jvm/FullGCProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
