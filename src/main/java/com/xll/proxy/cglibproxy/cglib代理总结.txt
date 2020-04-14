@@ -1,0 +1,19 @@
+静态代理---用的很少。
+动态代理---当目标类实现接口时，使用动态代理。
+
+cglib实现原理：
+Cglib代理，也叫作子类代理,它是在内存中构建一个子类对象从而实现对目标对象功能的扩展。
+----继承目标类以目标对象子类的方式实现代理。
+<dependency>
+        <groupId>cglib</groupId>
+        <artifactId>cglib</artifactId>
+        <version>2.2.2</version>
+</dependency>
+需要引入cglib包，自动会引入依赖包  asm
+目标类不能是final修饰
+
+
+---spring中：
+在Spring的AOP编程中:
+如果加入容器的目标对象有实现接口,用JDK代理(动态代理)
+如果目标对象没有实现接口,用Cglib代理。
