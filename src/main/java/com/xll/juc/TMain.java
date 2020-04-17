@@ -11,10 +11,17 @@ public class TMain {
     public static void main(String[] args) {
 
 
-        new ReentrantLock();
+//        ThreadLocal tl = new ThreadLocal();
 
-        ThreadFactory t = null;
 
+     /*   String s = DateUtil.formatDate();
+        System.out.println(s);
+
+        System.out.println(DateUtil.getToday());*/
+
+        String s = DateUtil.formatNow("yyyy-MM-dd HH:mm:ss.SSS");
+
+        System.out.println(s);
 
     }
 }
