@@ -4,14 +4,12 @@ package com.xll.jdk8.streamapi;
  *  模拟员工
  */
 public class Employee {
-
     private Integer empNo; // 员工编号 唯一
-
     private String empName; // 员工姓名
-
     private Double salary;  // 薪水
+    private Status status;   // 工作状态   正常  休假  出差
 
-    private Status status;
+    public Employee() {}
 
     public Employee(Integer empNo, String empName, Double salary, Status status) {
         this.empNo = empNo;
@@ -50,5 +48,15 @@ public class Employee {
 
     public void setStatus(Status status) {
         this.status = status;
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "empNo=" + empNo +
+                ", empName='" + empName + '\'' +
+                ", salary=" + salary +
+                ", status=" + status +
+                '}';
     }
 }

@@ -1,24 +1,52 @@
 package com.xll.print;
 
-import java.math.BigDecimal;
 
 public class Print {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
+
+    }
+
+    public int rangeSumBST(TreeNode root, int L, int R) {
+
+        int[] arr = {0};
+
+        // 中序遍历这棵树
 
 
-        BigDecimal price = new BigDecimal("0.00");
-        BigDecimal price2 = new BigDecimal("0");
-        BigDecimal price3 = new BigDecimal("0");
 
-        int i = BigDecimal.ZERO.compareTo(price);
-        int i2 = BigDecimal.ZERO.compareTo(price2);
-        int i3 = BigDecimal.ZERO.compareTo(price3);
+        return 0;
+    }
 
-        System.out.println(i);
-        System.out.println(i2);
-        System.out.println(i3);
+    public void cal(TreeNode root, int L, int R, int[] arr) {
+        if (root == null) return;
+
+        if (root.left != null) {
+            cal(root.left, L, R, arr);
+        }
 
 
     }
+
+    public void p(TreeNode root) {
+        if (root != null && root.left != null) {
+            p(root.left);
+        }
+        System.out.println(root.val);
+        if (root != null && root.right != null) {
+            p(root.right);
+        }
+    }
+
 }
+
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+
+    TreeNode(int x) {
+        val = x;
+    }
+}
+

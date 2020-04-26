@@ -6,6 +6,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
+ *  java开发规范最新，对toMap方法的处理规范要求
  *  将List 收集成 Map， 一定要使用含有参数类型为BinaryOperator，参数名为mergeFunction的方法
  *    并且 先对List元素过滤判空
  */
